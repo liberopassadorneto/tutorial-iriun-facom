@@ -41,6 +41,9 @@
 - Inicie o Iriun no computador da Facom e abra o app no celular.
 - **IMPORTANTE**: O computador e o celular devem estar conectados na mesma rede WiFi.
 - Agora é possível utilizar o celular como webcam e prosseguir com a avaliação no AVA-UFMS.
+- Iriun iniciado no PC:
   ![Iriun PC](/assets/iriun-open.png)
+- Iriun iniciado no celular:
   ![Iriun Mobile](/assets/iriun-open-mobile.jpg)
-# tutorial-iriun-facom
+- Opcao de utilizar a camera da frente (self):
+  ![Iriun Mobile Self](/assets/iriun-open-mobile-self.jpg)
